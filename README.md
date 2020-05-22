@@ -23,4 +23,6 @@ My Mac config
         tg = tag -n
         df = diff
         br = branch
+        
+ 5. https://hyesun03.github.io/2019/01/16/iterm2-move-word/
 
