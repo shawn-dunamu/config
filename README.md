@@ -11,18 +11,19 @@ My Mac config
 
 4. vi ~/.gitconfig
 
-    [alias]
-        co = checkout
-        rb = rebase -i
-        st = status
-        cm = commit
-        pl = pull
-        ps = push
-        lg = log --graph --abbrev-commit --decorate --format=format:'%C(cyan)%h%C(reset) - %C(green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(yellow)%d%C(reset)' --all
-        ad = add
-        tg = tag -n
-        df = diff
+[alias] 
+        co = checkout 
+        rb = rebase -i 
+        st = status 
+        cm = commit 
+        pl = pull 
+        ps = push 
+        lg = log --graph --abbrev-commit --decorate --format=format:'%C(cyan)%h%C(reset) - %C(green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(yellow)%d%C(reset)' --all 
+        ad = add 
+        tg = tag -n 
+        df = diff 
         br = branch
+
         
  5. https://hyesun03.github.io/2019/01/16/iterm2-move-word/
 
